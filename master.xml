@@ -1,7 +1,7 @@
 public class my{
 public Static void main(String[] args)
 {
-      for(int i=1;i<20;i++){
+for(int i=1;i<90;i++){
        System.out.pritln("this is my file "+i);
 
 }
